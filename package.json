@@ -9,8 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "dependencies": {
     "@types/node": "^20.12.12",
-    "lowdb": "^7.0.1"
+    "lowdb": "^7.0.1",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
   }
 }
