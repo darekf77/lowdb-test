@@ -1,0 +1,9 @@
+/node_modules
+
+
+# ignore all necessary folders
+node_modules
+dist
+coverage
+.idea
+.vscode
